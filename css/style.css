@@ -3,6 +3,10 @@ body{
 }
 
 .jumbotron {
-    padding: 2rem 1rem;
+    padding-top: 2rem;
     background-color: #212529;
+}
+
+.font {
+    font-family: 'Poppins';
 }
