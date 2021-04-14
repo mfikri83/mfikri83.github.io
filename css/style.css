@@ -10,3 +10,7 @@ body{
 .font {
     font-family: 'Poppins';
 }
+
+#projects {
+    background-color: #212529;
+}
